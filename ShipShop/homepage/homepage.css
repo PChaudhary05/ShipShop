@@ -249,3 +249,6 @@ footer{
     font-size: 20px;
     color: wheat;
 }
+#change:hover{
+    color: red;
+}
