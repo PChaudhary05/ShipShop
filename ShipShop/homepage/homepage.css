@@ -48,6 +48,9 @@ nav ul li a{
     font-weight: bold;
     
 }
+nav ul li a:hover{
+    text-decoration: underline;
+}
 header{
     display: flex;
     gap: 10px;
@@ -249,6 +252,7 @@ footer{
     font-size: 20px;
     color: wheat;
 }
-#change:hover{
-    color: red;
+.cart a:hover{
+    text-decoration: underline;
+    color: rgb(99, 99, 180);
 }
